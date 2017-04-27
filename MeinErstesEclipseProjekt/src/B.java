@@ -1,4 +1,3 @@
-
 public class B extends SuperClass {
 
 	protected void methode2() {
